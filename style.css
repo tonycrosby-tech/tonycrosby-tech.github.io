@@ -1,0 +1,23 @@
+a:hover {
+    background-color: orange;
+}
+
+a:focus {
+    background: green;
+}
+
+p {
+    font-size: 18px;
+    font-family: serif;
+}
+
+body {
+    background-image: url(./assets/HjIyYJ.jpg);
+}
+
+.image1 {
+    image-rendering: auto;
+    height: 350px;
+    width: 350px;
+    border-image-repeat: round;
+}
